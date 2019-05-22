@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "run-code",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
